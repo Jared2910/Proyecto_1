@@ -4,6 +4,7 @@ char MenuCobro::mostrarOpciones()
 {
 	system("cls");
 	char opcion;
+	cout<<"Hola que tal"<<endl;
 	cout << "----------Menu Cobro----------\n";
 	cout << " 1) Mostrar Productos\n";
 	cout << " 2) Seleccionar Productos\n";
